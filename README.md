@@ -13,11 +13,11 @@
 
 ## :camera_flash: Project Image
 
-![Image - App1](https://github.com/Adrian97G/WeatherApp/blob/main/weatherapp.png)
+![Image - App1](https://github.com/Adrian97G/portfolio-vuetify/blob/master/src/Portfolio%20Vuuetify.png)
 
 ## :link: Link to see the project in action
 
-[Here you can visit my website](https://weather-app-adrian.netlify.app)
+[Here you can visit my website](https://portfolio-vuetify.netlify.app/)
 
 ## :wave: Greetings!!
 
